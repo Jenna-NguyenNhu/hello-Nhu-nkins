@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Xc nhn_ui-dialog-titlebar-close</name>
+   <tag></tag>
+   <elementGuidId>079ebdb1-d3ed-4e04-8c54-08cd84a664e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[8]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ui-dialog-titlebar-close</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-dialog-titlebar-close</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js&quot;]/body[@class=&quot;html not-front not-logged-in no-sidebars page-user page-user- page-user-19802 processed&quot;]/div[@class=&quot;ui-dialog ui-widget ui-widget-content ui-corner-all ui-front ui-dialog-buttons ui-draggable&quot;]/div[@class=&quot;ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix&quot;]/button[@class=&quot;ui-dialog-titlebar-close&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/button</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_- Tt c -Ha NiTp H Ch Minh NngHuAn Gi_b23bc8</name>
+   <tag></tag>
+   <elementGuidId>43f4fe38-d9eb-46c4-b157-c572d5c647a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='edit-field-cities-tid']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#edit-field-cities-tid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control form-select</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>edit-field-cities-tid</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>field_cities_tid</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Tất cả -Hà NộiTp Hồ Chí MinhĐà NẵngHuếAn GiangBà RịaBà Rịa - Vũng TàuBắc GiangBắc KạnBạc LiêuBắc NinhBến TreBiên HòaBình DươngBình PhướcBình ThuậnBình ĐịnhBuôn Ma ThuộtCà MauCần ThơCao BằngCao LãnhGia LaiGia NghĩaHà GiangHạ LongHà NamHà TĩnhHải DươngHải PhòngHậu GiangHòa BìnhHưng YênKhánh HòaKiên GiangKon TumLai ChâuLâm ĐồngLạng SơnLào CaiLong AnLong XuyênMỹ ThoNam ĐịnhNghệ AnNha TrangNinh BìnhNinh ThuậnPhan Rang - Tháp ChàmPhan ThiếtPhủ LýPhú ThọPhú YênPleikuQuảng BìnhQuảng NamQuảng NgãiQuảng NinhQuảng TrịQuy NhơnRạch GiáSóc TrăngSơn LaTam KỳTân AnTây NinhThái BìnhThái NguyênThanh HóaThủ Dầu MộtThừa Thiên HuếTiền GiangTrà VinhTuy HòaTuyên QuangVị ThanhViệt TrìVinhVĩnh LongVĩnh PhúcVĩnh YênYên BáiĐà LạtĐắk LắkĐắk NôngĐiện BiênĐiện Biên PhủĐông HàĐồng HớiĐồng NaiĐồng Tháp</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit-field-cities-tid&quot;)</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='edit-field-cities-tid']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='edit-field-cities-tid-wrapper']/div/div/select</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tại TP'])[1]/following::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Để mời'])[1]/following::select[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thực hiện'])[1]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PG hẹn hò tiêu biểu'])[1]/preceding::select[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/select</value>
+   </webElementXpaths>
+</WebElementEntity>
