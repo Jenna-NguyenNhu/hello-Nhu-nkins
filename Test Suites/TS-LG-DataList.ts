@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS-LG-DataList</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>a3e4e3b0-31a4-4d3f-b476-e37061856a79</testSuiteGuid>
+   <testCaseLink>
+      <guid>b27c0713-87ae-4bcd-864f-4a074327a930</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC-CheckDataList/LG-DataList</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d51e13ea-4af1-4490-8e41-5de8725cb08f</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DataList</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>d51e13ea-4af1-4490-8e41-5de8725cb08f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Username</value>
+         <variableId>71154e25-8907-4faa-bd2a-893e3a35bf3a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d51e13ea-4af1-4490-8e41-5de8725cb08f</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>3fbd6c8e-9c18-414a-9db9-ca333820eb0e</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

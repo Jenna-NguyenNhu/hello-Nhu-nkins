@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-NYD-ADD-TO-LIST</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e547a54-e3ae-45d4-9e4d-c17d114ff962</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e86bb550-1369-41ce-86af-5ab0e82527cb</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>df421935-b0da-477a-b7fe-862b1db924ae</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LG-DataList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa062c32-225a-4799-9cb8-6da444d5943d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>71154e25-8907-4faa-bd2a-893e3a35bf3a</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3fbd6c8e-9c18-414a-9db9-ca333820eb0e</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

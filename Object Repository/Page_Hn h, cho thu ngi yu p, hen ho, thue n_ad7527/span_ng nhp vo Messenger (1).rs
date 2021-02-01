@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__pass</name>
+   <name>span_ng nhp vo Messenger (1)</name>
    <tag></tag>
-   <elementGuidId>6a10b141-e6ef-43a0-bbb3-2376b0d77fcc</elementGuidId>
+   <elementGuidId>20f2a8d4-3c27-4743-9aa1-d1565b83321f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#edit-pass</value>
+         <key>XPATH</key>
+         <value>//div[@id='u_0_0']/div/div/div/div/div/div/div[5]/div/span</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='edit-pass']</value>
+         <key>CSS</key>
+         <value>span.continueText._6i6a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,76 +21,69 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
+      <value>span</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control form-text required</value>
+      <value>continueText _6i6a</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>text</name>
       <type>Main</type>
-      <value>password</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>edit-pass</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>pass</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>size</name>
-      <type>Main</type>
-      <value>60</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>maxlength</name>
-      <type>Main</type>
-      <value>128</value>
+      <value>Đăng nhập vào Messenger</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;edit-pass&quot;)</value>
+      <value>id(&quot;u_0_0&quot;)/div[1]/div[@class=&quot;_95ry&quot;]/div[1]/div[@class=&quot;_94ve&quot;]/div[@class=&quot;_94vf&quot;]/div[@class=&quot;welcomePageModalSheetContent&quot;]/div[@class=&quot;_9ihg&quot;]/div[@class=&quot;_909d&quot;]/span[@class=&quot;continueText _6i6a&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Hn h, cho thu ngi yu p, hen ho, thue n_ad7527/iframe_Xem thm trn_f337c47e510c0dc</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//input[@id='edit-pass']</value>
+      <value>//div[@id='u_0_0']/div/div/div/div/div/div/div[5]/div/span</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//form[@id='user-login']/div/div[4]/input</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xin chào, bạn có cần chúng tôi giúp gì không?'])[1]/following::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chat với Giải Trí Đẹp'])[1]/following::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đăng nhập vào Messenger']/parent::*</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/input</value>
+      <value>//span</value>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01-NYD-LG</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6c4bab15-763f-4c26-a331-0bee4777818d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4edb2631-b820-4b01-9525-db464d8e21c8</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>df45d170-e898-4445-a2f5-f84f4e47030c</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input__pass</name>
+   <name>div_ng nhp vo Messenger</name>
    <tag></tag>
-   <elementGuidId>6a10b141-e6ef-43a0-bbb3-2376b0d77fcc</elementGuidId>
+   <elementGuidId>f79427ed-2431-401e-b379-b202a265a355</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#edit-pass</value>
+         <key>XPATH</key>
+         <value>//div[@id='u_0_0']/div/div/div/div/div/div/div[5]/div</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='edit-pass']</value>
+         <key>CSS</key>
+         <value>div._909d</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,76 +21,76 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
+      <value>div</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>form-control form-text required</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>password</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>edit-pass</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>pass</value>
+      <value>_909d</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>size</name>
+      <name>tabindex</name>
       <type>Main</type>
-      <value>60</value>
+      <value>0</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>maxlength</name>
+      <name>role</name>
       <type>Main</type>
-      <value>128</value>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đăng nhập vào Messenger</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;edit-pass&quot;)</value>
+      <value>id(&quot;u_0_0&quot;)/div[1]/div[@class=&quot;_95ry&quot;]/div[1]/div[@class=&quot;_94ve&quot;]/div[@class=&quot;_94vf&quot;]/div[@class=&quot;welcomePageModalSheetContent&quot;]/div[@class=&quot;_9ihg&quot;]/div[@class=&quot;_909d&quot;]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Hn h, cho thu ngi yu p, hen ho, thue n_ad7527/iframe_Xem thm trn_f687c1bad9b76</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//input[@id='edit-pass']</value>
+      <value>//div[@id='u_0_0']/div/div/div/div/div/div/div[5]/div</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//form[@id='user-login']/div/div[4]/input</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xin chào, bạn có cần chúng tôi giúp gì không?'])[1]/following::div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chat với Giải Trí Đẹp'])[1]/following::div[4]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[4]/input</value>
+      <value>//div[5]/div</value>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_ng nhp</name>
+   <name>iframe_Xem thm trn_f687c1bad9b76</name>
    <tag></tag>
-   <elementGuidId>593e351a-0b65-42a5-8e5c-76006b5609e4</elementGuidId>
+   <elementGuidId>a9f8ef31-0e48-4b6f-bd1e-f883588d40e1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#edit-submit</value>
+         <key>XPATH</key>
+         <value>//iframe[@name='f687c1bad9b76']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='edit-submit']</value>
+         <key>CSS</key>
+         <value>iframe[name=&quot;f687c1bad9b76&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,111 +21,104 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>onclick</name>
-      <type>Main</type>
-      <value>custom_user_smart_login(this); return false;</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>submit</value>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>edit-submit</value>
+      <value>iframe</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>op</value>
+      <value>f687c1bad9b76</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>value</name>
+      <name>width</name>
       <type>Main</type>
-      <value>Đăng nhập</value>
+      <value>1000px</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>height</name>
       <type>Main</type>
-      <value>btn btn-primary form-submit</value>
+      <value>1000px</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>frameborder</name>
+      <type>Main</type>
+      <value>0</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>allowtransparency</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>allowfullscreen</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>scrolling</name>
+      <type>Main</type>
+      <value>no</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>allow</name>
+      <type>Main</type>
+      <value>encrypted-media</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>src</name>
       <type>Main</type>
-      <value>Đăng nhập</value>
+      <value>https://www.facebook.com/v7.0/plugins/customerchat.php?app_id=&amp;attribution=setup_tool&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df3ed21294978918%26domain%3Dnguoiyeudep.com%26origin%3Dhttps%253A%252F%252Fnguoiyeudep.com%252Ff11a0c939983bd4%26relation%3Dparent.parent&amp;container_width=0&amp;locale=vi_VN&amp;logged_in_greeting=Xin%20ch%C3%A0o%2C%20b%E1%BA%A1n%20c%C3%B3%20c%E1%BA%A7n%20ch%C3%BAng%20t%C3%B4i%20gi%C3%BAp%20g%C3%AC%20kh%C3%B4ng%3F&amp;logged_out_greeting=Xin%20ch%C3%A0o%2C%20b%E1%BA%A1n%20c%C3%B3%20c%E1%BA%A7n%20ch%C3%BAng%20t%C3%B4i%20gi%C3%BAp%20g%C3%AC%20kh%C3%B4ng%3F&amp;page_id=1416034221760022&amp;request_time=1612166007029&amp;sdk=joey&amp;theme_color=%237646ff</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>dialog_iframe</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;edit-submit&quot;)</value>
+      <value>id(&quot;fb-root&quot;)/div[@class=&quot;fb-customerchat fb_invisible_flow fb_iframe_widget&quot;]/span[1]/iframe[1]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='edit-submit']</value>
+      <value>//iframe[@name='f687c1bad9b76']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='edit-actions']/button</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhập mật khẩu tài khoản của bạn.'])[1]/following::button[1]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::button[1]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bản quyền'])[1]/preceding::button[1]</value>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Điều khoản sử dụng'])[1]/preceding::button[1]</value>
+      <value>//div[@id='fb-root']/div[2]/span/iframe</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[5]/button</value>
+      <value>//iframe</value>
    </webElementXpaths>
 </WebElementEntity>

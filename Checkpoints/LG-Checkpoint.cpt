@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>LG-Checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/DataForCheckpoint</source-url>
+   </source-info>
+   <taken-date>2021-02-01T17:36:21.26</taken-date>
+   <column-names>
+      <column-name>Username</column-name>
+      <column-name>Password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "nhu.bug26@gmail.com",
+      "checked": true
+    },
+    {
+      "value": "Manh@2612",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "nhu.nguyen@gmail.com",
+      "checked": false
+    },
+    {
+      "value": "Nhu@123",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "962973782",
+      "checked": false
+    },
+    {
+      "value": "nhu000",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

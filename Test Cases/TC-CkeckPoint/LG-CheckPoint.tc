@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LG-CheckPoint</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>514a06a3-8d12-427c-990b-8a7fb289c618</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>07f4c64f-5632-4142-a3cf-c192434dd2b8</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>99a1aaad-1b00-490b-943e-a6e05e385b29</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
